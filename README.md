@@ -24,3 +24,11 @@ This project is a marketing funnel built using Vue.js, HTML, CSS, and JavaScript
 - `src/App.vue` - Main Vue.js component
 - `public/` - Static files
 - `styles.css` - Basic styling
+
+## Challenges & Solutions
+- **Challenge:** Ensuring responsive design across different devices.
+  **Solution:** Implemented CSS media queries and used responsive design principles.
+
+## Future Enhancements
+- **Backend Integration:** Plan to add backend functionality for form submissions.
+- **Advanced Features:** Implement user analytics and tracking.
