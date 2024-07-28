@@ -14,7 +14,7 @@ This project is a marketing funnel built using Vue.js, HTML, CSS, and JavaScript
 - JavaScript
 
 ## How to Run
-1. Clone the repository: `git clone https://github.com/Hawasandra1/marketing-funnel-project.git`
+1. Clone the repository: `git clone https://github.com/Hawasandra1/coin-nexus.git`
 2. Navigate into the project directory: `cd marketing-funnel-project`
 3. Install dependencies: `npm install`
 4. Run the project: `npm run serve`
