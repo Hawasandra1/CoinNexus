@@ -1,38 +1,26 @@
 # Marketing Funnel Project
 
-This project showcases a simple marketing funnel with a responsive design, form validation, and backend handling for form submissions.
+This project is a marketing funnel built using Vue.js, HTML, CSS, and JavaScript. It showcases a multi-step funnel design where users progress through various stages, including Introduction, Pricing, and Contact. This example does not include backend functionality.
 
 ## Features
-
-- **Responsive Design:** Built with HTML and CSS to ensure a great user experience on all devices.
-- **Form Validation:** JavaScript is used to validate form inputs before submission.
-- **Backend Handling:** PHP script to process form submissions and store them.
+- Multi-step funnel navigation
+- Responsive design
+- Simple, user-friendly interface
 
 ## Technologies Used
-
+- Vue.js
 - HTML
 - CSS
 - JavaScript
-- PHP
 
-## Installation
+## How to Run
+1. Clone the repository: `git clone https://github.com/Hawasandra1/marketing-funnel-project.git`
+2. Navigate into the project directory: `cd marketing-funnel-project`
+3. Install dependencies: `npm install`
+4. Run the project: `npm run serve`
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/Hawasandra1/Marketing-Funnel-Project.git
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd Marketing-Funnel-Project
-    ```
-3. Open `index.html` in your browser to view the frontend.
-
-4. To handle form submissions, make sure you have a PHP server running. You can use tools like XAMPP or MAMP.
-
-5. Place the `process_form.php` in the root directory of your PHP server.
-
-## Usage
-
-- Navigate through the different sections of the marketing funnel.
-- Submit the contact form to see form validation in action.
-- The form data will be processed by the PHP script and stored.
+## Project Structure
+- `src/components/` - Vue.js components for each funnel step
+- `src/App.vue` - Main Vue.js component
+- `public/` - Static files
+- `styles.css` - Basic styling
