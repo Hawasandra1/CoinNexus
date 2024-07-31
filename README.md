@@ -46,7 +46,7 @@ This project is a marketing funnel built using Vue.js, HTML, CSS, and JavaScript
 
   Description: Wireframe for the user dashboard, highlighting key interactive components.
 
-Note: These screenshots provide a brief overview of the application and do not capture all features and functionalities
+Note: These screenshots provide a brief overview of the application.
 
   
 
