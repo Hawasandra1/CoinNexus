@@ -34,11 +34,19 @@ This project is a marketing funnel built using Vue.js, HTML, CSS, and JavaScript
 - **Advanced Features:** Implement user analytics and tracking.
 
 ## Screenshots
-- Home Page
-![UX1](https://github.com/user-attachments/assets/be0c9176-45a0-430a-82ee-806d4bbdb0a5)
+ - **Home Page**
+    
+  ![UX1](https://github.com/user-attachments/assets/10fe586d-fc16-4654-97e3-46e471e3ebb4)
+  
+  Description: Initial wireframe showing the layout and elements of the home page.
 
-- Dashboard
-![UX3](https://github.com/user-attachments/assets/5e4e57d6-549f-4603-9443-a7cbe99caa39)
+- **Dashboard**
+    
+   ![UX3](https://github.com/user-attachments/assets/ac8683a9-0b7d-44de-adfb-9a50758705c1)
+
+  Description: Wireframe for the user dashboard, highlighting key interactive components.
+
+Note: These screenshots provide a brief overview of the application and do not capture all features and functionalities
 
   
 
