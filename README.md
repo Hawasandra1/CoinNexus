@@ -32,3 +32,13 @@ This project is a marketing funnel built using Vue.js, HTML, CSS, and JavaScript
 ## Future Enhancements
 - **Backend Integration:** Plan to add backend functionality for form submissions.
 - **Advanced Features:** Implement user analytics and tracking.
+
+## Screenshots
+- Home Page
+![UX1](https://github.com/user-attachments/assets/be0c9176-45a0-430a-82ee-806d4bbdb0a5)
+
+- Dashboard
+![UX3](https://github.com/user-attachments/assets/5e4e57d6-549f-4603-9443-a7cbe99caa39)
+
+  
+
