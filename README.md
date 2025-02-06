@@ -7,13 +7,11 @@ This project is a marketing funnel built using Vue.js, HTML, CSS, and JavaScript
 - Responsive design
 - Simple, user-friendly interface
 
-## Languages Used
+# Tech Stack used:
 - HTML
 - CSS
 - JavaScript
-
-## Framework Used
-- Vue
+- Vue.js
 
 ## How to Run
 1. Clone the repository: `git clone https://github.com/Hawasandra1/CoinNexus.git`
